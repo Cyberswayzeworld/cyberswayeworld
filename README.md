@@ -3,7 +3,7 @@
 
 <h2>👨‍💻 Cybersecurity Certificates </h2>
 
-- <b>Google Cybersecurity Professional Certificate </b>
+- <b🧾Google Cybersecurity Professional Certificate </b>
   - LINX
   - PYTHON Programming
   - SIEM Tools
