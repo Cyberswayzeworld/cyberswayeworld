@@ -1,4 +1,4 @@
-<h1>Hi, I'm Nathaniel! <br/><a href="https://github.com/cyberswayzeworld">Creative</a>, <a href="https://www.swayzeworld.com/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/swayzeworldtv">YouTuber</a></h1>
+<h1>Hi, I'm Nathaniel! <br/><a href="https://github.com/cyberswayzeworld">Creative</a>, <a href="https://www.swayzeworld.com/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/channel/UChaZjfOIB3RTxq_lqx6Nkuw">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
