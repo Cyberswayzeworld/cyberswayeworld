@@ -9,8 +9,8 @@
 - [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
 <h2> 🤳 Social Media Handles :</h2>
+[SWA¥ZEWORLD] (https://www.swayzeworld.com)
 
-[SWA¥ZEWORLD](https://www.swayzeworld.com)
 [youtube]: https://www.youtube.com/@swayzeworldtv
 [instagram]: https://www.instagram.com/ZEEKMcFLY/
 [twitter]: https://twitter.com/ZEEKMcFLY
