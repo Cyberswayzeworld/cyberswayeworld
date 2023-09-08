@@ -4,11 +4,11 @@
 <h2>👨‍💻 Cybersecurity Certificates </h2>
 
 - <b>Google Cybersecurity Professional Certificate </b>
-  - [LINX]
-  - [PYTHON Programming]
-  - [SIEM Tools]
-  - [IDS]
-  - [SQL]
+  - LINX
+  - PYTHON Programming
+  - SIEM Tools
+  - IDS
+  - SQL
 
 <h2>📺 YouTube Videos</h2>
 
