@@ -12,7 +12,7 @@
 
 <h2>📺 YouTube Videos</h2>
 
-- [TRIGGER x ZEEkMcFLY "Interlude II"](https://youtu.be/a4lRFRIiLwc?si=kdrkPPKANDOjXAxH)
+- [TRIGGER x ZEEkMcFLY "Interlude II" Official Video](https://youtu.be/a4lRFRIiLwc?si=kdrkPPKANDOjXAxH)
 
 
 <h2> 📱 Connect with me: </h2>
