@@ -1,3 +1,4 @@
+
 <h1>Hi, I'm Nathaniel! <br/><a href="https://github.com/cyberswayzeworld">Creative</a>, <a href="https://www.swayzeworld.com/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/channel/UChaZjfOIB3RTxq_lqx6Nkuw">YouTuber</a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
@@ -33,7 +34,7 @@
 [twitter]: https://twitter.com/zeekmcfly
 [youtube]: https://www.youtube.com/c/swayzeworldtv
 [instagram]: https://www.instagram.com/ZEEKMCFLY/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[SWA¥ZEWORLD]: https://swayzeworld.com/
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
