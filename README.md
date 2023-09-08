@@ -32,7 +32,7 @@
 [<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [twitter]: https://twitter.com/zeekmcfly
-[youtube]: https://www.youtube.com/c/swayzeworldtv
+[youtube]: https://youtube.com/@swayzeworldtv?si=7oR4rlsQyTBt7GbW
 [instagram]: https://www.instagram.com/ZEEKMCFLY/
 [SWA¥ZEWORLD]: https://swayzeworld.com/
 
